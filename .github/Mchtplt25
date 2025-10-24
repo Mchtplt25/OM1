@@ -1,0 +1,3 @@
+git clone https://github.com/<your-username>/OM1.git
+cd OM1
+git submodule update --init
